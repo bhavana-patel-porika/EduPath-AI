@@ -22,6 +22,4 @@ https://edupath-ai-backlog-exam-prep-career-roadmap.ai.studio/
 Developed using Google AI Studio.
 
 ## Limitations
-Plans and recommendations are guidance, not guaranteed
-academic results or employment outcomes.
 Plans and recommendations are guidance, not guaranteed academic results or employment outcomes.
